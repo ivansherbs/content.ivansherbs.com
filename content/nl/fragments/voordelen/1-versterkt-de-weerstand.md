@@ -1,5 +1,3 @@
-><h2>Versterkt de weerstand</h2>
+><h2 style="font-family:papyrus">Ivan Chai versterkt de weerstand</h2 style="font-family:lato">
 >
->"Ivan Chai zorgt voor een betere opname van voedingsstoffen waardoor uw weerstand versterkt"
->
-> <p style="text-align: right">Michael Koch <br> Founder Ivan's Herbs</p>
+>"Kruiden uit Siberië zorgen voor een betere opname van voedingsstoffen; hierdoor versterkt de weerstand."
